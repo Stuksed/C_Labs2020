@@ -1,8 +1,5 @@
 #include <iostream>
-#include <cassert>
-#include <algorithm>
 #include <tuple>
-#include <iomanip>
 #include "Maze.h"
 #include "Direction.h"
 using namespace std;

@@ -1,7 +1,6 @@
 #include <iostream>
 #include <tuple>
 #include "Maze.h"
-#include "Direction.h"
 using namespace std;
 
 bool Maze::setConnection(int i1, int j1, int i2, int j2, bool typeConnect)
